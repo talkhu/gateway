@@ -1,0 +1,8 @@
+/Users/cary/mytest/FSD-assigment/SBA/gateway/src/main/java/com/sba/gateway/filter/JwtTokenAuthenticationFilter.java
+/Users/cary/mytest/FSD-assigment/SBA/gateway/src/main/java/com/sba/gateway/controller/HomeController.java
+/Users/cary/mytest/FSD-assigment/SBA/gateway/src/main/java/com/sba/gateway/SbaGatewayApplication.java
+/Users/cary/mytest/FSD-assigment/SBA/gateway/src/main/java/com/sba/gateway/config/SwaggerConfig.java
+/Users/cary/mytest/FSD-assigment/SBA/gateway/src/main/java/com/sba/gateway/config/CorsConfig.java
+/Users/cary/mytest/FSD-assigment/SBA/gateway/src/main/java/com/sba/gateway/config/SecurityTokenConfig.java
+/Users/cary/mytest/FSD-assigment/SBA/gateway/src/main/java/com/sba/gateway/config/JwtConfig.java
+/Users/cary/mytest/FSD-assigment/SBA/gateway/src/main/java/com/sba/gateway/component/JwtAuthenticationEntryPoint.java
